@@ -1,1 +1,2 @@
-Welcome to jenkins
+echo "Welcome "
+pause;
